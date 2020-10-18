@@ -13,6 +13,6 @@ pipeline:
     image: golang:latest
     commands:
       - pwd
-      - ll
+      - ls
       - echo build-33
       # - go build
