@@ -14,5 +14,5 @@ pipeline:
     commands:
       - pwd
       - ls
-      - echo build-
+      - echo build-linux-11
       # - go build
